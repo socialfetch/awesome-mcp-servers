@@ -1,1 +1,1 @@
-@file:/tmp/readme-new.md
+REPLACE_WITH_FILE_/tmp/readme-new.md
